@@ -3,5 +3,4 @@
 Services & architecture
 
 - transactional email: sparkpost
-- hosting: gh-pages
-...
+- hosting: zeit now
