@@ -3,4 +3,4 @@
 Services & architecture
 
 - transactional email: sparkpost
-- hosting: zeit now
+- hosting: vercel
